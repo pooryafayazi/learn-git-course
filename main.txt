@@ -3,3 +3,6 @@ line 2
 line 3 edited
 
 line 4 edited
+line 5
+line 6
+line 7
