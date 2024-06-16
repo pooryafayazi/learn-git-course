@@ -1,0 +1,4 @@
+first line of feature2 file
+Second line
+third line
+fourth line
